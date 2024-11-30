@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <Username>TestMember</Username>
+    <Password>e7cf3ef4f17c3999a94f2c6f612e8a888e5b1026878e4e19398b23bd38ec221a</Password>
+  </User>
+  <User>
+    <Username>Chloe</Username>
+    <Password>48735c4fae42d1501164976afec76730b9e5fe467f680bdd8daff4bb77674045</Password>
+  </User>
+  <User>
+    <Username>Hazel</Username>
+    <Password>4f0063d4dca40aa3cbcf69841070df91b2ea198ba97c150137f60350651c202d</Password>
+  </User>
+  <User>
+    <Username>Rebecca</Username>
+    <Password>345e9a5c3016810228f9f56c0e4e2ca4d00f3a6973c99498561ab72c4bcb3db5</Password>
+  </User>
+  <User>
+    <Username>Frank</Username>
+    <Password>7c1079393a5419a23c26fde0a94f45b939f6935facd5090263dc1e32f47969f3</Password>
+  </User>
+  <User>
+    <Username>Paula</Username>
+    <Password>86605cac7f0646867f62ff0f03ca6af9dc3ce860f772a8673cdb6cd34dffc3b1</Password>
+  </User>
+  <User>
+    <Username>Chris</Username>
+    <Password>88330e460cb91f5244ab10e06c5b197091e0a6567e0b87f8a201eb69ebcf9fc9</Password>
+  </User>
+  <User>
+    <Username>Sydney</Username>
+    <Password>fd5ddf23b10abed6545b2ae74fc4e355ddc39b3530912e9b822db81c43ed3613</Password>
+  </User>
+</Users>

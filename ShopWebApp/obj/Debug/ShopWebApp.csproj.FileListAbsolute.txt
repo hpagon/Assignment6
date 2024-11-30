@@ -1,0 +1,116 @@
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\ShopWebApp.dll.config
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\ShopWebApp.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\ShopWebApp.pdb
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\csc.exe
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\csc.exe.config
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\csc.rsp
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\csi.exe
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\csi.exe.config
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\csi.rsp
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\System.Buffers.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\System.Memory.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\vbc.exe
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\vbc.exe.config
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\vbc.rsp
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\Antlr3.Runtime.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\Newtonsoft.Json.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\PasswordLibrary.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\System.Web.Optimization.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\WebGrease.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\PasswordLibrary.pdb
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\System.Web.Optimization.xml
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\Newtonsoft.Json.xml
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\obj\Debug\ShopWebApp.csproj.AssemblyReference.cache
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\obj\Debug\ShopWebApp.csproj.CoreCompileInputs.cache
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\obj\Debug\ShopWebApp.csproj.Up2Date
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\obj\Debug\ShopWebApp.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\obj\Debug\ShopWebApp.pdb
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\myAuthenticate.dll
+C:\Users\rache\OneDrive\Desktop\fresh start\Assignment6\ShopWebApp\bin\myAuthenticate.pdb
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\ShopWebApp.dll.config
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\ShopWebApp.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\ShopWebApp.pdb
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\csc.exe
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\csc.exe.config
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\csc.rsp
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\csi.exe
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\csi.exe.config
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\csi.rsp
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\System.Buffers.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\System.Memory.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\vbc.exe
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\vbc.exe.config
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\vbc.rsp
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\Antlr3.Runtime.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\myAuthenticate.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\Newtonsoft.Json.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\PasswordLibrary.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\System.Web.Optimization.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\WebGrease.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\myAuthenticate.pdb
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\PasswordLibrary.pdb
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\System.Web.Optimization.xml
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\Newtonsoft.Json.xml
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\obj\Debug\ShopWebApp.csproj.AssemblyReference.cache
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\obj\Debug\ShopWebApp.csproj.CoreCompileInputs.cache
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\obj\Debug\ShopWebApp.csproj.Up2Date
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\obj\Debug\ShopWebApp.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\ShopWebApp\obj\Debug\ShopWebApp.pdb
