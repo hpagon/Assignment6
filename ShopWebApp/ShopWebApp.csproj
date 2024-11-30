@@ -102,14 +102,14 @@
     <Content Include="App_Data\Member.xml" />
     <Content Include="App_Data\Staff.xml" />
     <Content Include="Captcha.ascx" />
-    <None Include="Connected Services\CheckoutService\Service1.wsdl" />
-    <None Include="Connected Services\CheckoutService\Service1.xsd">
+    <None Include="Connected Services\CheckoutService\Service11.wsdl" />
+    <None Include="Connected Services\CheckoutService\Service13.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Connected Services\CheckoutService\Service11.xsd">
+    <None Include="Connected Services\CheckoutService\Service131.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Connected Services\CheckoutService\Service12.xsd">
+    <None Include="Connected Services\CheckoutService\Service132.xsd">
       <SubType>Designer</SubType>
     </None>
     <None Include="Connected Services\ImageVerifier\Service.disco" />
@@ -119,13 +119,13 @@
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>
     </None>
-    <None Include="Connected Services\CheckoutService\Service1.disco" />
     <None Include="Connected Services\CheckoutService\configuration91.svcinfo" />
     <None Include="Connected Services\CheckoutService\configuration.svcinfo" />
     <None Include="Connected Services\CheckoutService\Reference.svcmap">
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>
     </None>
+    <None Include="Connected Services\CheckoutService\Service11.disco" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />

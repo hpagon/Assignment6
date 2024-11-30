@@ -5,14 +5,14 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopWebApp", "ShopWebApp\ShopWebApp.csproj", "{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}"
 	ProjectSection(ProjectDependencies) = postProject
-		{0DD5BF46-C81B-44D9-85F0-85FAAE55B2E0} = {0DD5BF46-C81B-44D9-85F0-85FAAE55B2E0}
+		{39EC4A9D-0F62-4EEA-88B4-8A15A52DAC19} = {39EC4A9D-0F62-4EEA-88B4-8A15A52DAC19}
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordLibrary", "PasswordLibrary\PasswordLibrary.csproj", "{16155688-6E65-4F29-B586-F36907CE2F95}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myAuthenticate", "myAuthenticate\myAuthenticate.csproj", "{5A3B986A-214B-4CD2-8596-5B07458061CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkout", "..\..\..\school\fall2024\cse445\cse445assignment5\MemberPage\Checkout\Checkout.csproj", "{0DD5BF46-C81B-44D9-85F0-85FAAE55B2E0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkout", "Checkout\Checkout.csproj", "{39EC4A9D-0F62-4EEA-88B4-8A15A52DAC19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,10 +32,10 @@ Global
 		{5A3B986A-214B-4CD2-8596-5B07458061CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A3B986A-214B-4CD2-8596-5B07458061CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A3B986A-214B-4CD2-8596-5B07458061CF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0DD5BF46-C81B-44D9-85F0-85FAAE55B2E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0DD5BF46-C81B-44D9-85F0-85FAAE55B2E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0DD5BF46-C81B-44D9-85F0-85FAAE55B2E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0DD5BF46-C81B-44D9-85F0-85FAAE55B2E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39EC4A9D-0F62-4EEA-88B4-8A15A52DAC19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39EC4A9D-0F62-4EEA-88B4-8A15A52DAC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39EC4A9D-0F62-4EEA-88B4-8A15A52DAC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39EC4A9D-0F62-4EEA-88B4-8A15A52DAC19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

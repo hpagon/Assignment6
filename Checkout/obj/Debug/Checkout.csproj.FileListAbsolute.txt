@@ -1,0 +1,7 @@
+C:\Users\james\Downloads\Assignment6\Assignment6\Checkout\bin\Checkout.dll.config
+C:\Users\james\Downloads\Assignment6\Assignment6\Checkout\bin\Checkout.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\Checkout\bin\Checkout.pdb
+C:\Users\james\Downloads\Assignment6\Assignment6\Checkout\obj\Debug\Checkout.csproj.AssemblyReference.cache
+C:\Users\james\Downloads\Assignment6\Assignment6\Checkout\obj\Debug\Checkout.csproj.CoreCompileInputs.cache
+C:\Users\james\Downloads\Assignment6\Assignment6\Checkout\obj\Debug\Checkout.dll
+C:\Users\james\Downloads\Assignment6\Assignment6\Checkout\obj\Debug\Checkout.pdb
