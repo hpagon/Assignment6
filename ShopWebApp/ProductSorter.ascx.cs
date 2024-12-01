@@ -29,6 +29,7 @@ namespace ShopWebApp.Controls
             if(PageContext == "MemberPage")
             {
                 TryItContainer.Visible = false;
+                products = (List<Product>)Session["inventory"];
             } else
             {
                 TryItContainer.Visible = true;
@@ -64,6 +65,13 @@ namespace ShopWebApp.Controls
 
         private void UpdateList(List<Product> ordered)
         {
+            // Updated product catalog if inside of member page
+            if(PageContext == "MemberPage")
+            {
+                Session["inventory"] = ordered;
+                Response.Redirect("./MemberPage.aspx");
+                return;
+            }
             // Update each product label with a description of the product (name, price, and rating)
             Prod1.Text = ordered[0].Print();
             Prod2.Text = ordered[1].Print();
@@ -74,16 +82,16 @@ namespace ShopWebApp.Controls
     }
 
     // Product class definition
-    public class Product
-    {
-        public string Name { get; set; }
-        public double Price { get; set; }
-        public double Rating { get; set; }
+    //public class Product
+    //{
+    //    public string Name { get; set; }
+    //    public double Price { get; set; }
+    //    public double Rating { get; set; }
 
-        // Returns a string representation of the product's details
-        public string Print()
-        {
-            return $"{Name}: ${Price}, Rating: {Rating}";
-        }
-    }
+    //    // Returns a string representation of the product's details
+    //    public string Print()
+    //    {
+    //        return $"{Name}: ${Price}, Rating: {Rating}";
+    //    }
+    //}
 }

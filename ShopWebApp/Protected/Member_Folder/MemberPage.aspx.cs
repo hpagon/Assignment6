@@ -28,19 +28,24 @@ namespace Assignment6.ShopWebApp.Protected.Member_Folder
                 string[] productCategories = { "electronics", "books", "fashion", "home", "toys", "sports" };
                 decimal[] prices = { 800, 1000, 100, 500, 400, 75, 12, 15, 15, 50, 75, 10, 10, 50, 125, 700, 600, 10, 400, 300, 80, 70, 800, 15, 300, 10, 15, 10, 200, 5, 20, 150, 175, 20, 175, 200 };
                 Random random = new Random();
-
+                //Create individual inventory items
                 for(int i = 0; i < names.Length; i++)
                 {
                     Session[names[i]] = new Product { Name = names[i], Price = prices[i], Rating = random.NextDouble() * 3 + 2, InCart=false, PriceRange = priceRanges[i], ProductCategory = productCategories[i/6], Stock = random.Next(5, 101)};
                 }
-
-                Session["Inventory"] = names;
+                // Create official inventory list
+                List<Product> products = new List<Product>();
+                foreach(string productName in names)
+                {
+                    products.Add((Product)Session[productName]);
+                }
+                Session["Inventory"] = products;
             }
             // Visually populate product catalog
-            string[] inventory = (string[])Session["Inventory"];
-            foreach (string productName in inventory)
+            List<Product> inventory = (List<Product>)Session["Inventory"];
+            foreach (Product product in inventory)
             {
-                itemCatalog.Items.Add(new ListItem($"{((Product)Session[productName]).Print()}"));
+                itemCatalog.Items.Add(new ListItem($"{product.Print()}"));
             }
         }
 
