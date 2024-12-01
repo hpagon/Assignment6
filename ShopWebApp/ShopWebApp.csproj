@@ -222,6 +222,8 @@
     <Content Include="Site.Master" />
     <Content Include="TryIts\AuthTryIt.aspx" />
     <Content Include="TryIts\CaptchaTryIt.aspx" />
+    <Content Include="TryIts\CookieTryIt.aspx" />
+    <Content Include="TryIts\PasswordHashTryIt.aspx" />
     <Content Include="TryIts\ProductSorterTryIt.aspx" />
     <Content Include="TryIts\ShoppingCartTryIt.aspx" />
     <Content Include="ViewSwitcher.ascx" />
@@ -337,6 +339,20 @@
     </Compile>
     <Compile Include="TryIts\CaptchaTryIt.aspx.designer.cs">
       <DependentUpon>CaptchaTryIt.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TryIts\CookieTryIt.aspx.cs">
+      <DependentUpon>CookieTryIt.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TryIts\CookieTryIt.aspx.designer.cs">
+      <DependentUpon>CookieTryIt.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TryIts\PasswordHashTryIt.aspx.cs">
+      <DependentUpon>PasswordHashTryIt.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TryIts\PasswordHashTryIt.aspx.designer.cs">
+      <DependentUpon>PasswordHashTryIt.aspx</DependentUpon>
     </Compile>
     <Compile Include="TryIts\ProductSorterTryIt.aspx.cs">
       <DependentUpon>ProductSorterTryIt.aspx</DependentUpon>

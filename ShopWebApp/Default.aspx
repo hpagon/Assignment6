@@ -122,7 +122,16 @@
                     <td>N/A</td>
                     <td>N/A</td>
                     <td>Logs application start events and page visits</td>
-                    <td><a href="./TryIts/ShoppingCartTryIt.aspx">TryIt</a></td>
+                    <td><a href="./VisitorLogs.aspx">TryIt</a></td>
+                </tr>
+                <tr>
+                    <td>Noah</td>
+                    <td>WSDL Service</td>
+                    <td>GetRecommendations</td>
+                    <td>productCategory (string), priceRange (string), userID (string)</td>
+                    <td>List&lt;string&gt; (recommendations)</td>
+                    <td>Provides recommendations based on product category, price range, and user ID</td>
+                    <td><a href="./ProductRecommendation.asmx">TryIt</a></td>
                 </tr>
             </table>
         </div>
