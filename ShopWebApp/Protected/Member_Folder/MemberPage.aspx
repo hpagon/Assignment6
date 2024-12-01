@@ -26,13 +26,19 @@
                 </table>
                 <asp:ListBox ID="itemCatalog" runat="server" Width="80%"></asp:ListBox>
                 <div>
-                    <asp:Button ID="addToCart" runat="server" Text="Add to Cart"/>
+                    <asp:Button ID="addToCart" runat="server" Text="Add to Cart" OnClick="addToCart_Click"/>
                     <asp:Label ID="catalogLabel" runat="server" Text=" "></asp:Label>
                 </div>
             </div>
        </div>
        <div>
             <h2>Shopping Cart</h2>
+            <asp:ListBox ID="shoppingCart" runat="server" Width="80%"></asp:ListBox>
+            <div class="shoppingCartControls">
+                <asp:Button ID="remove" runat="server" Text="Remove From Cart" OnClick="remove_Click" />
+                <asp:Button ID="checkout" runat="server" Text="Checkout" style="height: 29px" OnClick="checkout_Click" />
+                <asp:Label ID="shoppingCartLabel" runat="server" Text=" "></asp:Label>
+            </div>
         </div>
     </form>
 </body>

@@ -314,6 +314,7 @@
     <Compile Include="Protected\Staff_Folder\StaffPage.aspx.designer.cs">
       <DependentUpon>StaffPage.aspx</DependentUpon>
     </Compile>
+    <Compile Include="ServiceWrapper.cs" />
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

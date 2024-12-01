@@ -13,7 +13,7 @@ namespace ShopWebApp.TryIts
         protected void Page_Load(object sender, EventArgs e)
         {
             //if session state empty or first time visiting, populate the store
-            if (Session.Count == 0)
+            if (Session.Count == 0 || Session["book1"] == null)
             {
                 string[] names = { "Data Structures and Algorithms", "Advanced Java Programming", "Artificial Intelligence and Deep Learning", "Python Programming Basics", "Database Management Systems" };
                 double[] prices = { 59.99, 45.99, 79.99, 29.99, 39.99 };
@@ -31,13 +31,17 @@ namespace ShopWebApp.TryIts
             {
                 foreach (string key in Session.Keys)
                 {
-                    //add item to catalog
-                    Item newItem = (Item)Session[key];
-                    itemCatalog.Items.Add(new ListItem($"Name: {newItem.name}, Stock: {newItem.stock}", key));
-                    //add corresponding items to shopping cart
-                    if (newItem.inCart)
+                    if(key.StartsWith("book"))
                     {
-                        shoppingCart.Items.Add(new ListItem(newItem.name, key));
+                        //add item to catalog
+                        Item newItem = (Item)Session[key];
+                        itemCatalog.Items.Add(new ListItem($"Name: {newItem.name}, Stock: {newItem.stock}", key));
+                        //add corresponding items to shopping cart
+                        if (newItem.inCart)
+                        {
+                            shoppingCart.Items.Add(new ListItem(newItem.name, key));
+                        }
+
                     }
                 }
             }

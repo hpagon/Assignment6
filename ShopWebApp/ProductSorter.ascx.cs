@@ -33,6 +33,15 @@ namespace ShopWebApp.Controls
             } else
             {
                 TryItContainer.Visible = true;
+                products = new List<Product>
+                {
+                    // A Product object stores the name, price, and rating
+                    new Product { Name = "Gaming Mouse", Price = 60, Rating = 4.3 },
+                    new Product { Name = "Webcam", Price = 90, Rating = 4.2 },
+                    new Product { Name = "Wireless Headphones", Price = 120, Rating = 4.6 },
+                    new Product { Name = "Mechanical Keyboard", Price = 150, Rating = 4.5 },
+                    new Product { Name = "4K Monitor", Price = 300, Rating = 4.8 }
+                };
             }
         }
 

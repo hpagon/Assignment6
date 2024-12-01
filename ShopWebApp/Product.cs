@@ -20,5 +20,10 @@ namespace ShopWebApp
         {
             return $"{Name} Price: ${Price} Rating: {Rating}";
         }
+
+        public string PrintMember() // the prod sorter uc will need the properties displayed as a string
+        {
+            return $"{Name}, Price: ${Price}, Rating: {Rating:F1}, Stock: {Stock}";
+        }
     }
 }

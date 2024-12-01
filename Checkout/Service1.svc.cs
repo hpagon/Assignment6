@@ -33,7 +33,10 @@ namespace Checkout
                 }
                 int newStock = Int32.Parse(item["stock"]) - 1;  //Decrease stock by 1
                 inventory[item["id"]] = newStock;
-                updatedStock.Add(item["id"], newStock.ToString());
+                if (!updatedStock.ContainsKey(item["id"]))
+                {
+                    updatedStock.Add(item["id"], newStock.ToString());
+                }
             }
             return updatedStock;
         }
