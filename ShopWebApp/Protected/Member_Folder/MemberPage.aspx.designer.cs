@@ -51,12 +51,39 @@ namespace Assignment6.ShopWebApp.Protected.Member_Folder
         protected global::ShopWebApp.Controls.ProductSorter ProductSorterControl;
 
         /// <summary>
-        /// ProductSorter1 control.
+        /// MemberPageContainer control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::ShopWebApp.Controls.ProductSorter ProductSorter1;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl MemberPageContainer;
+
+        /// <summary>
+        /// itemCatalog control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ListBox itemCatalog;
+
+        /// <summary>
+        /// addToCart control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button addToCart;
+
+        /// <summary>
+        /// catalogLabel control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label catalogLabel;
     }
 }

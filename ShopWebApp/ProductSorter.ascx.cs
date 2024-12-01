@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.ServiceModel.Configuration;
 using System.Web.Instrumentation;
 using System.Web.UI;
 using System.Web.UI.WebControls;
@@ -28,11 +29,9 @@ namespace ShopWebApp.Controls
             if(PageContext == "MemberPage")
             {
                 TryItContainer.Visible = false;
-                MemberPageContainer.Visible = true;
             } else
             {
                 TryItContainer.Visible = true;
-                MemberPageContainer.Visible = false;
             }
         }
 
