@@ -32,3 +32,11 @@ Page accessed: /Login.aspx at 11/30/2024 10:00:33 PM
 Page accessed: /TryIts/VisitorLogs.aspx at 11/30/2024 10:00:37 PM
 Page accessed: /Protected/Member_Folder/MemberPage.aspx at 11/30/2024 10:00:40 PM
 Page accessed: /Login.aspx at 11/30/2024 10:00:40 PM
+Application started at 11/30/2024 10:17:52 PM
+Page accessed: /Default.aspx at 11/30/2024 10:17:53 PM
+Page accessed: /TryIts/ProductRecommendation.asmx at 11/30/2024 10:18:01 PM
+Page accessed: /TryIts/ProductRecommendation.asmx at 11/30/2024 10:18:07 PM
+Page accessed: /TryIts/VisitorLogs.aspx at 11/30/2024 10:18:14 PM
+Page accessed: /TryIts/CookieTryIt.aspx at 11/30/2024 10:18:18 PM
+Page accessed: /TryIts/PasswordHashTryIt.aspx at 11/30/2024 10:18:21 PM
+Page accessed: /TryIts/ShoppingCartTryIt.aspx at 11/30/2024 10:18:34 PM

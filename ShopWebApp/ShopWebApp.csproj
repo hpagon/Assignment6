@@ -224,6 +224,7 @@
     <Content Include="TryIts\CaptchaTryIt.aspx" />
     <Content Include="TryIts\CookieTryIt.aspx" />
     <Content Include="TryIts\PasswordHashTryIt.aspx" />
+    <Content Include="TryIts\ProductRecommendation.asmx" />
     <Content Include="TryIts\ProductSorterTryIt.aspx" />
     <Content Include="TryIts\ShoppingCartTryIt.aspx" />
     <Content Include="TryIts\VisitorLogs.aspx" />
@@ -354,6 +355,10 @@
     </Compile>
     <Compile Include="TryIts\PasswordHashTryIt.aspx.designer.cs">
       <DependentUpon>PasswordHashTryIt.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TryIts\ProductRecommendation.asmx.cs">
+      <DependentUpon>ProductRecommendation.asmx</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="TryIts\ProductSorterTryIt.aspx.cs">
       <DependentUpon>ProductSorterTryIt.aspx</DependentUpon>
