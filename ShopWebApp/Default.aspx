@@ -24,21 +24,21 @@
 
         <h2>Service Directory</h2>
         <div>
-            <table style="width: 100%;">
+            <table style="width: 100%;" border="1">
                 <tr>
                     <td>Contribution</td>
-                    <td> Herber 33.3%</td>
+                    <td> Heber 33.3%</td>
                     <td> Noah 33.3%</td>
                     <td> Rachel 33.3%</td>
                 </tr>
                 <tr>
-                    <td>Provider</td>
-                    <td>Type</td>
-                    <td>Operation</td>
-                    <td>Parameters</td>
-                    <td>Return type</td>
-                    <td>Function</td>
-                    <td>TryIt</td>
+                    <td><b>Provider</b></td>
+                    <td><b>Type</b></td>
+                    <td><b>Operation</b></td>
+                    <td><b>Parameters</b></td>
+                    <td><b>Return type</b></td>
+                    <td><b>Function</b></td>
+                    <td><b>TryIt</b></td>
                 </tr>
                 <tr>
                     <td>Rachel</td>
