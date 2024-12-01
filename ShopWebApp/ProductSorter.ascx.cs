@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Web.Instrumentation;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
@@ -19,8 +20,20 @@ namespace ShopWebApp.Controls
             new Product { Name = "4K Monitor", Price = 300, Rating = 4.8 }
         };
 
+        public string PageContext { get; set; }
+
         protected void Page_Load(object sender, EventArgs e)
         {
+            // Toggle which product list is visible based on page context
+            if(PageContext == "MemberPage")
+            {
+                TryItContainer.Visible = false;
+                MemberPageContainer.Visible = true;
+            } else
+            {
+                TryItContainer.Visible = true;
+                MemberPageContainer.Visible = false;
+            }
         }
 
         protected void SortBtn_Click(object sender, EventArgs e)

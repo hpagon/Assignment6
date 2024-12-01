@@ -40,3 +40,71 @@ Page accessed: /TryIts/VisitorLogs.aspx at 11/30/2024 10:18:14 PM
 Page accessed: /TryIts/CookieTryIt.aspx at 11/30/2024 10:18:18 PM
 Page accessed: /TryIts/PasswordHashTryIt.aspx at 11/30/2024 10:18:21 PM
 Page accessed: /TryIts/ShoppingCartTryIt.aspx at 11/30/2024 10:18:34 PM
+Application started at 12/1/2024 12:18:21 AM
+Page accessed: /Default.aspx at 12/1/2024 12:18:21 AM
+Page accessed: /TryIts/CookieTryIt.aspx at 12/1/2024 12:18:38 AM
+Page accessed: /TryIts/ProductRecommendation.asmx at 12/1/2024 12:18:43 AM
+Application started at 12/1/2024 1:06:53 AM
+Page accessed: /Default.aspx at 12/1/2024 1:06:53 AM
+Page accessed: /Protected/Member_Folder/MemberPage.aspx at 12/1/2024 1:07:06 AM
+Page accessed: /Login.aspx at 12/1/2024 1:07:06 AM
+Page accessed: /Login.aspx at 12/1/2024 1:07:17 AM
+Page accessed: /Protected/Member_Folder/MemberPage.aspx at 12/1/2024 1:07:17 AM
+Page accessed: /Protected/Member_Folder/MemberPage.aspx at 12/1/2024 1:07:41 AM
+Page accessed: /Protected/Member_Folder/MemberPage.aspx at 12/1/2024 1:07:46 AM
+Page accessed: /Protected/Member_Folder/MemberPage.aspx at 12/1/2024 1:13:01 AM
+Page accessed: /Protected/Member_Folder/MemberPage.aspx at 12/1/2024 1:13:07 AM
+Page accessed: /Login.aspx at 12/1/2024 1:13:07 AM
+Page accessed: /Login.aspx at 12/1/2024 1:13:15 AM
+Page accessed: /Protected/Member_Folder/MemberPage.aspx at 12/1/2024 1:13:16 AM
+Application started at 12/1/2024 1:38:45 AM
+Page accessed: /Default.aspx at 12/1/2024 1:38:45 AM
+Page accessed: /Protected/Member_Folder/MemberPage.aspx at 12/1/2024 1:38:49 AM
+Application started at 12/1/2024 1:39:40 AM
+Page accessed: /Default.aspx at 12/1/2024 1:39:40 AM
+Page accessed: /Protected/Member_Folder/MemberPage.aspx at 12/1/2024 1:39:47 AM
+Application started at 12/1/2024 1:41:27 AM
+Page accessed: /Default.aspx at 12/1/2024 1:41:27 AM
+Page accessed: /Protected/Member_Folder/MemberPage.aspx at 12/1/2024 1:41:33 AM
+Application started at 12/1/2024 1:42:45 AM
+Page accessed: /Default.aspx at 12/1/2024 1:42:45 AM
+Page accessed: /Protected/Member_Folder/MemberPage.aspx at 12/1/2024 1:42:51 AM
+Application started at 12/1/2024 1:43:09 AM
+Page accessed: /Default.aspx at 12/1/2024 1:43:09 AM
+Page accessed: /Protected/Member_Folder/MemberPage.aspx at 12/1/2024 1:43:15 AM
+Page accessed: /TryIts/ProductSorterTryIt.aspx at 12/1/2024 1:43:29 AM
+Page accessed: /TryIts/ProductSorterTryIt.aspx at 12/1/2024 1:43:42 AM
+Page accessed: /Default.aspx at 12/1/2024 1:43:43 AM
+Application started at 12/1/2024 1:46:32 AM
+Page accessed: /Default.aspx at 12/1/2024 1:46:32 AM
+Page accessed: /TryIts/ProductSorterTryIt.aspx at 12/1/2024 1:46:39 AM
+Page accessed: /TryIts/ProductSorterTryIt.aspx at 12/1/2024 1:46:41 AM
+Application started at 12/1/2024 2:05:23 AM
+Page accessed: /Default.aspx at 12/1/2024 2:05:23 AM
+Page accessed: /TryIts/ShoppingCartTryIt.aspx at 12/1/2024 2:05:33 AM
+Page accessed: /TryIts/ShoppingCartTryIt.aspx at 12/1/2024 2:05:41 AM
+Page accessed: /TryIts/ShoppingCartTryIt.aspx at 12/1/2024 2:05:41 AM
+Page accessed: /TryIts/ShoppingCartTryIt.aspx at 12/1/2024 2:05:43 AM
+Page accessed: /TryIts/ShoppingCartTryIt.aspx at 12/1/2024 2:05:43 AM
+Page accessed: /TryIts/ShoppingCartTryIt.aspx at 12/1/2024 2:05:45 AM
+Application started at 12/1/2024 2:06:34 AM
+Page accessed: /Default.aspx at 12/1/2024 2:06:34 AM
+Page accessed: /TryIts/ShoppingCartTryIt.aspx at 12/1/2024 2:06:38 AM
+Page accessed: /TryIts/ShoppingCartTryIt.aspx at 12/1/2024 2:06:42 AM
+Page accessed: /TryIts/ShoppingCartTryIt.aspx at 12/1/2024 2:06:42 AM
+Page accessed: /TryIts/ShoppingCartTryIt.aspx at 12/1/2024 2:06:43 AM
+Page accessed: /TryIts/ShoppingCartTryIt.aspx at 12/1/2024 2:06:44 AM
+Application started at 12/1/2024 2:11:24 AM
+Page accessed: /Default.aspx at 12/1/2024 2:11:24 AM
+Page accessed: /Protected/Member_Folder/MemberPage.aspx at 12/1/2024 2:11:28 AM
+Application started at 12/1/2024 2:11:55 AM
+Page accessed: /Default.aspx at 12/1/2024 2:11:56 AM
+Page accessed: /Protected/Member_Folder/MemberPage.aspx at 12/1/2024 2:12:06 AM
+Page accessed: /Protected/Member_Folder/MemberPage.aspx at 12/1/2024 2:16:56 AM
+Application started at 12/1/2024 2:24:26 AM
+Page accessed: /Default.aspx at 12/1/2024 2:24:26 AM
+Page accessed: /Protected/Member_Folder/MemberPage.aspx at 12/1/2024 2:24:41 AM
+Page accessed: /TryIts/ProductSorterTryIt.aspx at 12/1/2024 2:24:54 AM
+Page accessed: /TryIts/ProductSorterTryIt.aspx at 12/1/2024 2:24:57 AM
+Page accessed: /TryIts/ProductSorterTryIt.aspx at 12/1/2024 2:24:59 AM
+Page accessed: /Default.aspx at 12/1/2024 2:24:59 AM

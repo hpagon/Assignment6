@@ -33,6 +33,15 @@ namespace ShopWebApp.Controls
         protected global::System.Web.UI.WebControls.Button SortBtn;
 
         /// <summary>
+        /// TryItContainer control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl TryItContainer;
+
+        /// <summary>
         /// Prod1 control.
         /// </summary>
         /// <remarks>
@@ -76,5 +85,41 @@ namespace ShopWebApp.Controls
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Prod5;
+
+        /// <summary>
+        /// MemberPageContainer control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl MemberPageContainer;
+
+        /// <summary>
+        /// itemCatalog control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ListBox itemCatalog;
+
+        /// <summary>
+        /// addToCart control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button addToCart;
+
+        /// <summary>
+        /// catalogLabel control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label catalogLabel;
     }
 }

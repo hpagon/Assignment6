@@ -17,6 +17,7 @@ namespace Assignment6.ShopWebApp.Protected.Member_Folder
             {
                 Response.Redirect("~/Login.aspx");
             }
+            // Display user's name in custom greeting
             memberNameLabel.Text = User.Identity.Name;
         }
 
