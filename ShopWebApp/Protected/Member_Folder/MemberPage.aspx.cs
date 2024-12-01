@@ -17,6 +17,7 @@ namespace Assignment6.ShopWebApp.Protected.Member_Folder
             {
                 Response.Redirect("~/Login.aspx");
             }
+            memberNameLabel.Text = User.Identity.Name;
         }
 
         protected void LogoutButton_Click(object sender, EventArgs e)

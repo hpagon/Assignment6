@@ -8,7 +8,7 @@
 </head>
 <body>
    <form id="form1" runat="server">
-        <h1>Welcome to the Member Page</h1>
+        <h1>Welcome to the Member Page, <asp:Label ID="memberNameLabel" runat="server" Text="User"></asp:Label>!</h1>
         <asp:Button ID="LogoutButton" runat="server" Text="Logout" OnClick="LogoutButton_Click" />
     </form>
 </body>
