@@ -122,7 +122,7 @@
                     <td>N/A</td>
                     <td>N/A</td>
                     <td>Logs application start events and page visits</td>
-                    <td><a href="./VisitorLogs.aspx">TryIt</a></td>
+                    <td><a href="./TryIts/VisitorLogs.aspx">TryIt</a></td>
                 </tr>
                 <tr>
                     <td>Noah</td>

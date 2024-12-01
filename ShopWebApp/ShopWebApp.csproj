@@ -226,6 +226,7 @@
     <Content Include="TryIts\PasswordHashTryIt.aspx" />
     <Content Include="TryIts\ProductSorterTryIt.aspx" />
     <Content Include="TryIts\ShoppingCartTryIt.aspx" />
+    <Content Include="TryIts\VisitorLogs.aspx" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
@@ -367,6 +368,13 @@
     </Compile>
     <Compile Include="TryIts\ShoppingCartTryIt.aspx.designer.cs">
       <DependentUpon>ShoppingCartTryIt.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TryIts\VisitorLogs.aspx.cs">
+      <DependentUpon>VisitorLogs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TryIts\VisitorLogs.aspx.designer.cs">
+      <DependentUpon>VisitorLogs.aspx</DependentUpon>
     </Compile>
     <Compile Include="ViewSwitcher.ascx.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
