@@ -32,9 +32,9 @@
                     <td> Rachel 33.3%</td>
                 </tr>
                 <tr>
-                    <td><b>Provider</b></td>
-                    <td><b>Type</b></td>
-                    <td><b>Operation</b></td>
+                    <td><b>Provider Name</b></td>
+                    <td><b>Component Type</b></td>
+                    <td><b>Operation Name</b></td>
                     <td><b>Parameters</b></td>
                     <td><b>Return type</b></td>
                     <td><b>Function</b></td>
@@ -96,6 +96,42 @@
                     <td>Dictionary&lt;String,String&gt;</td>
                     <td>Processes order and updates stock levels based on the users shopping cart. Since I haven't deployed this service yet, please run the localhost in order to test it. The service can be found under the checkout project.</td>
                     <td><a href="./TryIts/ShoppingCartTryIt.aspx">TryIt</a></td>
+                </tr>
+                <tr>
+                    <td>Noah</td>
+                    <td>DLL Function</td>
+                    <td>HashPassword</td>
+                    <td>password (string)</td>
+                    <td>string (hashed password)</td>
+                    <td>Hashes and encrypts user passwords securely</td>
+                    <td><a href="./TryIts/PasswordHashTryIt.aspx">TryIt</a></td>
+                </tr>
+                <tr>
+                    <td>Noah</td>
+                    <td>Cookie</td>
+                    <td>SaveCookie, ShowCookie</td>
+                    <td>None</td>
+                    <td>string (cookie value)</td>
+                    <td>Stores user preferences in temporary cookies</td>
+                    <td><a href="./TryIts/CookieTryIt.aspx">TryIt</a></td>
+                </tr>
+                <tr>
+                    <td>Noah</td>
+                    <td>Global.asax Event Handler</td>
+                    <td>N/A</td>
+                    <td>N/A</td>
+                    <td>N/A</td>
+                    <td>Logs application start events and page visits</td>
+                    <td><a href="./TryIts/VisitorLogs.aspx">TryIt</a></td>
+                </tr>
+                <tr>
+                    <td>Noah</td>
+                    <td>WSDL Service</td>
+                    <td>GetRecommendations</td>
+                    <td>productCategory (string), priceRange (string), userID (string)</td>
+                    <td>List&lt;string&gt; (recommendations)</td>
+                    <td>Provides recommendations based on product category, price range, and user ID</td>
+                    <td><a href="./TryIts/ProductRecommendation.asmx">TryIt</a></td>
                 </tr>
             </table>
         </div>

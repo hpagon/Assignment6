@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\shopwebapp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|c:\\users\\james\\downloads\\assignment6\\assignment6\\shopwebapp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|c:\\users\\james\\downloads\\assignment6\\assignment6\\shopwebapp\\tryits\\shoppingcarttryit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\tryits\\shoppingcarttryit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\shopwebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\shopwebapp\\tryits\\shoppingcarttryit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\tryits\\shoppingcarttryit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|c:\\users\\james\\downloads\\assignment6\\assignment6\\shopwebapp\\tryits\\productrecommendation.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\tryits\\productrecommendation.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\shopwebapp\\productsorter.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
-      "RelativeMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\productsorter.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+      "AbsoluteMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\shopwebapp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\shopwebapp\\tryits\\visitorlogs.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\tryits\\visitorlogs.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\shopwebapp\\tryits\\cookietryit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\tryits\\cookietryit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\shopwebapp\\tryits\\cookietryit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\tryits\\cookietryit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\shopwebapp\\tryits\\passwordhashtryit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\tryits\\passwordhashtryit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16155688-6E65-4F29-B586-F36907CE2F95}|PasswordLibrary\\PasswordLibrary.csproj|C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\passwordlibrary\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16155688-6E65-4F29-B586-F36907CE2F95}|PasswordLibrary\\PasswordLibrary.csproj|solutionrelative:passwordlibrary\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\shopwebapp\\tryits\\passwordhashtryit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\tryits\\passwordhashtryit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\shopwebapp\\protected\\member_folder\\memberpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +49,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\shopwebapp\\protected\\member_folder\\memberpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\protected\\member_folder\\memberpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\shopwebapp\\tryits\\shoppingcarttryit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\tryits\\shoppingcarttryit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39EC4A9D-0F62-4EEA-88B4-8A15A52DAC19}|Checkout\\Checkout.csproj|C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\checkout\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,8 +67,8 @@
       "RelativeMoniker": "D:0:0:{39EC4A9D-0F62-4EEA-88B4-8A15A52DAC19}|Checkout\\Checkout.csproj|solutionrelative:checkout\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\shopwebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\shopwebapp\\tryits\\shoppingcarttryit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\tryits\\shoppingcarttryit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CB3E503-F7ED-47A3-9F29-AF6AE5118666}|ShopWebApp\\ShopWebApp.csproj|C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\shopwebapp\\tryits\\captchatryit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -74,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 271,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,19 +118,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductSorter.ascx",
-              "DocumentMoniker": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\ProductSorter.ascx",
-              "RelativeDocumentMoniker": "ShopWebApp\\ProductSorter.ascx",
-              "ToolTip": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\ProductSorter.ascx",
-              "RelativeToolTip": "ShopWebApp\\ProductSorter.ascx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
-              "WhenOpened": "2024-12-01T00:49:25.82Z"
+              "DocumentIndex": 2,
+              "Title": "ProductRecommendation.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\TryIts\\ProductRecommendation.asmx.cs",
+              "RelativeDocumentMoniker": "ShopWebApp\\TryIts\\ProductRecommendation.asmx.cs",
+              "ToolTip": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\TryIts\\ProductRecommendation.asmx.cs",
+              "RelativeToolTip": "ShopWebApp\\TryIts\\ProductRecommendation.asmx.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T05:14:28.678Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "VisitorLogs.aspx",
+              "DocumentMoniker": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\TryIts\\VisitorLogs.aspx",
+              "RelativeDocumentMoniker": "ShopWebApp\\TryIts\\VisitorLogs.aspx",
+              "ToolTip": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\TryIts\\VisitorLogs.aspx",
+              "RelativeToolTip": "ShopWebApp\\TryIts\\VisitorLogs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-01T04:48:43.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\Global.asax.cs",
+              "RelativeDocumentMoniker": "ShopWebApp\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\Global.asax.cs",
+              "RelativeToolTip": "ShopWebApp\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:46:25.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CookieTryIt.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\TryIts\\CookieTryIt.aspx.cs",
+              "RelativeDocumentMoniker": "ShopWebApp\\TryIts\\CookieTryIt.aspx.cs",
+              "ToolTip": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\TryIts\\CookieTryIt.aspx.cs",
+              "RelativeToolTip": "ShopWebApp\\TryIts\\CookieTryIt.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:19:36.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CookieTryIt.aspx",
+              "DocumentMoniker": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\TryIts\\CookieTryIt.aspx",
+              "RelativeDocumentMoniker": "ShopWebApp\\TryIts\\CookieTryIt.aspx",
+              "ToolTip": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\TryIts\\CookieTryIt.aspx",
+              "RelativeToolTip": "ShopWebApp\\TryIts\\CookieTryIt.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-01T04:19:30.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PasswordHashTryIt.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\TryIts\\PasswordHashTryIt.aspx.cs",
+              "RelativeDocumentMoniker": "ShopWebApp\\TryIts\\PasswordHashTryIt.aspx.cs",
+              "ToolTip": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\TryIts\\PasswordHashTryIt.aspx.cs",
+              "RelativeToolTip": "ShopWebApp\\TryIts\\PasswordHashTryIt.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:15:32.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PasswordHashTryIt.aspx",
+              "DocumentMoniker": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\TryIts\\PasswordHashTryIt.aspx",
+              "RelativeDocumentMoniker": "ShopWebApp\\TryIts\\PasswordHashTryIt.aspx",
+              "ToolTip": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\TryIts\\PasswordHashTryIt.aspx",
+              "RelativeToolTip": "ShopWebApp\\TryIts\\PasswordHashTryIt.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-01T04:11:20.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\PasswordLibrary\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "PasswordLibrary\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\PasswordLibrary\\PasswordHasher.cs",
+              "RelativeToolTip": "PasswordLibrary\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:22:33.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MemberPage.aspx.cs",
               "DocumentMoniker": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\Protected\\Member_Folder\\MemberPage.aspx.cs",
               "RelativeDocumentMoniker": "ShopWebApp\\Protected\\Member_Folder\\MemberPage.aspx.cs",
@@ -114,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "MemberPage.aspx",
               "DocumentMoniker": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\Protected\\Member_Folder\\MemberPage.aspx",
               "RelativeDocumentMoniker": "ShopWebApp\\Protected\\Member_Folder\\MemberPage.aspx",
@@ -126,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\Checkout\\Web.config",
               "RelativeDocumentMoniker": "Checkout\\Web.config",
@@ -139,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "IService1.cs",
               "DocumentMoniker": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\Checkout\\IService1.cs",
               "RelativeDocumentMoniker": "Checkout\\IService1.cs",
@@ -151,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "Service1.svc.cs",
               "DocumentMoniker": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\Checkout\\Service1.svc.cs",
               "RelativeDocumentMoniker": "Checkout\\Service1.svc.cs",
@@ -163,19 +276,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "ShoppingCartTryIt.aspx.cs",
               "DocumentMoniker": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\TryIts\\ShoppingCartTryIt.aspx.cs",
               "RelativeDocumentMoniker": "ShopWebApp\\TryIts\\ShoppingCartTryIt.aspx.cs",
               "ToolTip": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\TryIts\\ShoppingCartTryIt.aspx.cs",
               "RelativeToolTip": "ShopWebApp\\TryIts\\ShoppingCartTryIt.aspx.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwCIAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T01:50:44.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 16,
               "Title": "ShoppingCartTryIt.aspx",
               "DocumentMoniker": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\TryIts\\ShoppingCartTryIt.aspx",
               "RelativeDocumentMoniker": "ShopWebApp\\TryIts\\ShoppingCartTryIt.aspx",
@@ -183,12 +296,11 @@
               "RelativeToolTip": "ShopWebApp\\TryIts\\ShoppingCartTryIt.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-30T01:49:59.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T01:49:59.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "CaptchaTryIt.aspx.cs",
               "DocumentMoniker": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\TryIts\\CaptchaTryIt.aspx.cs",
               "RelativeDocumentMoniker": "ShopWebApp\\TryIts\\CaptchaTryIt.aspx.cs",
@@ -200,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "CaptchaTryIt.aspx",
               "DocumentMoniker": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\TryIts\\CaptchaTryIt.aspx",
               "RelativeDocumentMoniker": "ShopWebApp\\TryIts\\CaptchaTryIt.aspx",
@@ -212,13 +324,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\Web.config",
               "RelativeDocumentMoniker": "ShopWebApp\\Web.config",
               "ToolTip": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\Web.config",
               "RelativeToolTip": "ShopWebApp\\Web.config",
-              "ViewState": "AgIAADEAAAAAAAAAAAAUwEwAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwGsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-11-30T01:12:51.164Z",
               "EditorCaption": ""
@@ -238,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "Captcha.ascx.cs",
               "DocumentMoniker": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\Captcha.ascx.cs",
               "RelativeDocumentMoniker": "ShopWebApp\\Captcha.ascx.cs",
@@ -250,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "Captcha.ascx",
               "DocumentMoniker": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\Captcha.ascx",
               "RelativeDocumentMoniker": "ShopWebApp\\Captcha.ascx",
@@ -262,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "MemberRegistration.aspx.cs",
               "DocumentMoniker": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\MemberRegistration.aspx.cs",
               "RelativeDocumentMoniker": "ShopWebApp\\MemberRegistration.aspx.cs",
@@ -274,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "MemberRegistration.aspx",
               "DocumentMoniker": "C:\\Users\\james\\Downloads\\Assignment6\\Assignment6\\ShopWebApp\\MemberRegistration.aspx",
               "RelativeDocumentMoniker": "ShopWebApp\\MemberRegistration.aspx",
