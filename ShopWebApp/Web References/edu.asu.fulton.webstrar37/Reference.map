@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.DiscoveryDocumentReference" url="http://webstrar37.fulton.asu.edu/page0/ProductRecommendation.asmx?disco" filename="ProductRecommendation.disco" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="http://webstrar37.fulton.asu.edu/page0/ProductRecommendation.asmx?wsdl" filename="ProductRecommendation.wsdl" />
+  </Results>
+</DiscoveryClientResultsFile>

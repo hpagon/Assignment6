@@ -30,6 +30,25 @@
                     <asp:Label ID="catalogLabel" runat="server" Text=" "></asp:Label>
                 </div>
             </div>
+           <div class="recommendationContainer">
+               <h3>Not Sure what to get? Try our product recommendation tool!</h3>
+               <div class="recommendationControls">
+                   <asp:DropDownList ID="categories" runat="server">
+                       <asp:ListItem Text="Electronics" value="electronics"/>
+                       <asp:ListItem Text="Books" value="books"/>
+                       <asp:ListItem Text="Fashion" value="fashion"/>
+                       <asp:ListItem Text="Home" value="home"/>
+                       <asp:ListItem Text="Toys" value="toys"/>
+                       <asp:ListItem Text="Sports" value="sports"/>
+                   </asp:DropDownList>
+                   <asp:DropDownList ID="priceRanges" runat="server">
+                       <asp:ListItem Text="Low" value="low"/>
+                       <asp:ListItem Text="High" value="high"/>
+                   </asp:DropDownList>
+                   <asp:Button ID="recommendationsButton" runat="server" Text="Get Recommendations" OnClick="recommendationsButton_Click" />
+                   <asp:Button ID="hideRecommendations" runat="server" Text="Reset" OnClick="hideRecommendations_Click"/>
+               </div>
+           </div>
        </div>
        <div>
             <h2>Shopping Cart</h2>

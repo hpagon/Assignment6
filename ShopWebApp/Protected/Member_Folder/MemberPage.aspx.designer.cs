@@ -87,6 +87,42 @@ namespace Assignment6.ShopWebApp.Protected.Member_Folder
         protected global::System.Web.UI.WebControls.Label catalogLabel;
 
         /// <summary>
+        /// categories control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList categories;
+
+        /// <summary>
+        /// priceRanges control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList priceRanges;
+
+        /// <summary>
+        /// recommendationsButton control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button recommendationsButton;
+
+        /// <summary>
+        /// hideRecommendations control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button hideRecommendations;
+
+        /// <summary>
         /// shoppingCart control.
         /// </summary>
         /// <remarks>

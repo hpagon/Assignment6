@@ -13,6 +13,7 @@ namespace Assignment6.ShopWebApp.Protected.Member_Folder
 {
     public partial class MemberPage : Page
     {
+        protected string[] names = { "Smartphone", "Laptop", "Bluetooth Speaker", "Smartwatch", "Tablet", "Wireless Headphones", "Mystery Novel", "Science Fiction Anthology", "Self-Help Guide", "Biography", "Cookbook", "Children's Storybook", "T-Shirt", "Sneakers", "Jacket", "Wristwatch", "Handbag", "Scarf", "Vacuum Cleaner", "Air Purifier", "Coffee Maker", "Blender", "Mattress", "Desk Lamp", "Lego Set", "Action Figure", "Board Game", "Puzzle", "Dollhouse", "Toy Car", "Yoga Mat", "Dumbbells", "Tennis Racket", "Soccer Ball", "Basketball Shoes", "Fitness Tracker", };
         protected void Page_Load(object sender, EventArgs e)
         {
             // Ensure the user is authenticated before accessing the member page
@@ -25,7 +26,6 @@ namespace Assignment6.ShopWebApp.Protected.Member_Folder
             // Initialize product inventory if not already initialized
             if (Session["Inventory"] == null)
             {
-                string[] names = { "Smartphone", "Laptop", "Bluetooth Speaker", "Smartwatch", "Tablet", "Wireless Headphones", "Mystery Novel", "Science Fiction Anthology", "Self-Help Guide", "Biography", "Cookbook", "Children's Storybook", "T-Shirt", "Sneakers", "Jacket", "Wristwatch", "Handbag", "Scarf", "Vacuum Cleaner", "Air Purifier", "Coffee Maker", "Blender", "Mattress", "Desk Lamp", "Lego Set", "Action Figure", "Board Game", "Puzzle", "Dollhouse", "Toy Car", "Yoga Mat", "Dumbbells", "Tennis Racket", "Soccer Ball", "Basketball Shoes", "Fitness Tracker", };
                 string[] priceRanges = { "high", "high", "low", "high", "high", "low", "low", "low", "low", "high", "high", "low", "low", "low", "high", "high", "high", "low", "high", "high", "low", "low", "high", "low", "high", "low", "low", "low", "high", "low", "low", "high", "high", "low", "high", "high", };
                 string[] productCategories = { "electronics", "books", "fashion", "home", "toys", "sports" };
                 decimal[] prices = { 800, 1000, 100, 500, 400, 75, 12, 15, 15, 50, 75, 10, 10, 50, 125, 700, 600, 10, 400, 300, 80, 70, 800, 15, 300, 10, 15, 10, 200, 5, 20, 150, 175, 20, 175, 200 };
@@ -33,7 +33,7 @@ namespace Assignment6.ShopWebApp.Protected.Member_Folder
                 //Create individual inventory items
                 for (int i = 0; i < names.Length; i++)
                 {
-                    Session[names[i]] = new Product { Name = names[i], Price = prices[i], Rating = random.NextDouble() * 3 + 2, InCart = false, PriceRange = priceRanges[i], ProductCategory = productCategories[i / 6], Stock = random.Next(5, 101) };
+                    Session[names[i]] = new Product { Name = names[i], Price = prices[i], Rating = random.NextDouble() * 3 + 2, InCart = false, PriceRange = priceRanges[i], ProductCategory = productCategories[i / 6], Stock = random.Next(5, 101), Recommended = false};
                 }
                 // Create official inventory list
                 List<Product> products = new List<Product>();
@@ -42,13 +42,21 @@ namespace Assignment6.ShopWebApp.Protected.Member_Folder
                     products.Add((Product)Session[productName]);
                 }
                 Session["Inventory"] = products;
+                // Used to track when to display recommendations
+                Session["ShowRecs"] = false;
             }
             // Visually populate product catalog
             List<Product> inventory = (List<Product>)Session["Inventory"];
             foreach (Product product in inventory)
             {
-                itemCatalog.Items.Add(new ListItem($"{product.PrintMember()}", product.Name));
                 if(product.InCart) shoppingCart.Items.Add(new ListItem(product.Name, product.Name));
+                //only display recs if ShowRecs is true
+                if ((bool)Session["ShowRecs"])
+                {
+                    if(product.Recommended == true) itemCatalog.Items.Add(new ListItem($"{product.PrintMember()}", product.Name));
+                    continue;
+                }
+                itemCatalog.Items.Add(new ListItem($"{product.PrintMember()}", product.Name));
             }
         }
 
@@ -163,6 +171,36 @@ namespace Assignment6.ShopWebApp.Protected.Member_Folder
                 updateInventory();
             }
             //refresh to see updates
+            Response.Redirect("./MemberPage.aspx");
+        }
+        // Marks which list items need to be displayed upon refresh
+        protected void recommendationsButton_Click(object sender, EventArgs e)
+        {
+            // Call recommendation service and store results
+            string[] recommendations = ServiceWrapper.useProductRecommendation(categories.SelectedItem.Value, priceRanges.SelectedItem.Value, "");
+            HashSet<string> recommendationsSet = new HashSet<string>(recommendations);
+            foreach(string productName in names)
+            {
+                // Set Recommended to true for recommended items
+                Product temp = (Product)Session[productName];
+                if(recommendationsSet.Contains(productName))
+                {
+                    temp.Recommended = true;
+                } else
+                {
+                    temp.Recommended = false;
+                }
+                Session[productName] = temp;
+            }
+            // Force refresh to see changes
+            updateInventory();
+            Session["ShowRecs"] = true;
+            Response.Redirect("./MemberPage.aspx");
+        }
+        // Hide Recommendations
+        protected void hideRecommendations_Click(object sender, EventArgs e)
+        {
+            Session["ShowRecs"] = false;
             Response.Redirect("./MemberPage.aspx");
         }
     }

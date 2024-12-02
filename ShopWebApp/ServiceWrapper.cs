@@ -16,5 +16,13 @@ namespace ShopWebApp
             Dictionary<String, String> updatedStock = prxy.checkout(shoppingCartItems);
             return updatedStock;
         }
+
+        public static string[] useProductRecommendation(string productCategory, string priceRange, string userID)
+        {
+            edu.asu.fulton.webstrar37.ProductRecommendation prxy = new edu.asu.fulton.webstrar37.ProductRecommendation();
+            string[] recommendations = prxy.GetRecommendations(productCategory, priceRange, userID);
+            return recommendations;
+
+        }
     }
 }

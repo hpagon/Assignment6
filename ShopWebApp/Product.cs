@@ -15,6 +15,7 @@ namespace ShopWebApp
         public int Stock { get; set; }
         public string ProductCategory { get; set; }
         public bool InCart { get; set; }
+        public bool Recommended {  get; set; }
 
         public string Print() // the prod sorter uc will need the properties displayed as a string
         {

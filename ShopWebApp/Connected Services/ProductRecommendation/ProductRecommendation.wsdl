@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:tns="http://onlinestore.example.com/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" targetNamespace="http://onlinestore.example.com/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://onlinestore.example.com/">
+      <s:element name="GetRecommendations">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="productCategory" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="priceRange" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="userID" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetRecommendationsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetRecommendationsResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetRecommendationsSoapIn">
+    <wsdl:part name="parameters" element="tns:GetRecommendations" />
+  </wsdl:message>
+  <wsdl:message name="GetRecommendationsSoapOut">
+    <wsdl:part name="parameters" element="tns:GetRecommendationsResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ProductRecommendationSoap">
+    <wsdl:operation name="GetRecommendations">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get personalized product recommendations based on category, price range, and user ID. &lt;br /&gt; Example: productCategory = 'electronics', priceRange = 'low/high', userID = 'user123'</wsdl:documentation>
+      <wsdl:input message="tns:GetRecommendationsSoapIn" />
+      <wsdl:output message="tns:GetRecommendationsSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ProductRecommendationSoap" type="tns:ProductRecommendationSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetRecommendations">
+      <soap:operation soapAction="http://onlinestore.example.com/GetRecommendations" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ProductRecommendationSoap12" type="tns:ProductRecommendationSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetRecommendations">
+      <soap12:operation soapAction="http://onlinestore.example.com/GetRecommendations" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ProductRecommendation">
+    <wsdl:port name="ProductRecommendationSoap" binding="tns:ProductRecommendationSoap">
+      <soap:address location="http://webstrar37.fulton.asu.edu/page0/ProductRecommendation.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ProductRecommendationSoap12" binding="tns:ProductRecommendationSoap12">
+      <soap12:address location="http://webstrar37.fulton.asu.edu/page0/ProductRecommendation.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

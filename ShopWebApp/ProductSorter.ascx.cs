@@ -78,6 +78,7 @@ namespace ShopWebApp.Controls
             if(PageContext == "MemberPage")
             {
                 Session["inventory"] = ordered;
+                Session["ShowRecs"] = false;
                 Response.Redirect("./MemberPage.aspx");
                 return;
             }
