@@ -9,7 +9,8 @@
             </asp:DropDownList>
     <asp:Button ID="SortBtn" runat="server" Text="Display results" OnClick="SortBtn_Click" />
 </div>
-<div>
+<%-- Product List For Try It --%>
+<div runat="server" ID="TryItContainer">
     <ol>
         <li><asp:Label ID="Prod1" runat="server" Text=""></asp:Label></li>
         <li>
