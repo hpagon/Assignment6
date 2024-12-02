@@ -94,7 +94,7 @@
                     <td>Complete Transaction</td>
                     <td>List&lt;Dictionary&lt;String,String&gt;&gt;</td>
                     <td>Dictionary&lt;String,String&gt;</td>
-                    <td>Processes order and updates stock levels based on the users shopping cart. Since I haven't deployed this service yet, please run the localhost in order to test it. The service can be found under the checkout project.</td>
+                    <td>Processes order and updates stock levels based on the users shopping cart. </td>
                     <td><a href="./TryIts/ShoppingCartTryIt.aspx">TryIt</a></td>
                 </tr>
                 <tr>
